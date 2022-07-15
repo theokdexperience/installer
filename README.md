@@ -1,5 +1,7 @@
 # OpenShift Installer
 
+EDIT 1
+
 ## Supported Platforms
 
 * [AWS](docs/user/aws/README.md)
